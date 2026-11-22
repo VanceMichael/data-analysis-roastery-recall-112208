@@ -1,0 +1,34 @@
+[
+  {
+    "channel": "A",
+    "package": "F1",
+    "declared": "总批",
+    "label": "L1",
+    "version": "1",
+    "delivered": "true"
+  },
+  {
+    "channel": "B",
+    "package": "X1",
+    "declared": "子批",
+    "label": "L1",
+    "version": "1",
+    "delivered": "true"
+  },
+  {
+    "channel": "C",
+    "package": "X2",
+    "declared": "子批",
+    "label": "L1",
+    "version": "1",
+    "delivered": "false"
+  },
+  {
+    "channel": "D",
+    "package": "F2",
+    "declared": "总批",
+    "label": "L2",
+    "version": "1",
+    "delivered": "true"
+  }
+]

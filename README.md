@@ -13,6 +13,9 @@ green 的 stock 为开始投料前的实有重量，母批重量包含已经拆�
 - `work.json` 记录字段为 `order`、`lot_a`、`lot_b`、`ratio_a`、`weight`、`label`、`state`、`finished`。
 - `splits.json` 记录字段为 `parent`、`child`、`kg`、`state`。
 - `shipments.json` 记录字段为 `finished`、`package`、`weight`、`label`、`state`。
+- `channels.json` 记录字段为 `channel`、`package`、`declared`、`label`、`version`、`delivered`。
+- `blends.json` 记录字段为 `blend`、`uses`、`weight`、`packaging`、`revision`、`state`。
+- `review_actions.json` 记录字段为 `at`、`kind`、`ref`、`detail`。
 
 ## 运行
 

@@ -1,0 +1,18 @@
+[
+  {
+    "blend": "Z1",
+    "uses": "F1+F3",
+    "weight": "9",
+    "packaging": "X3",
+    "revision": "1",
+    "state": "已混"
+  },
+  {
+    "blend": "Z2",
+    "uses": "F2",
+    "weight": "6",
+    "packaging": "X4",
+    "revision": "1",
+    "state": "可拆"
+  }
+]
