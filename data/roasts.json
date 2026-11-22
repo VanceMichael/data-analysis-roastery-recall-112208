@@ -1,0 +1,65 @@
+[
+  {
+    "test": "R1",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "profile": "中",
+    "day": "D1",
+    "blind": "V1"
+  },
+  {
+    "test": "R2",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "profile": "中",
+    "day": "D2",
+    "blind": "V2"
+  },
+  {
+    "test": "R3",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.65",
+    "profile": "中",
+    "day": "D1",
+    "blind": "V3"
+  },
+  {
+    "test": "R4",
+    "lot_a": "G3",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "profile": "中",
+    "day": "D2",
+    "blind": "V4"
+  },
+  {
+    "test": "R5",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.65",
+    "profile": "中",
+    "day": "D2",
+    "blind": "V5"
+  },
+  {
+    "test": "R6",
+    "lot_a": "G3",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "profile": "中",
+    "day": "D3",
+    "blind": "V6"
+  },
+  {
+    "test": "R7",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.55",
+    "profile": "中",
+    "day": "D4",
+    "blind": "V7"
+  }
+]

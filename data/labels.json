@@ -1,0 +1,16 @@
+[
+  {
+    "label": "L1",
+    "fruit_min": "7",
+    "bitter_max": "3.5",
+    "range_max": "1",
+    "min_days": "2"
+  },
+  {
+    "label": "L2",
+    "fruit_min": "6",
+    "bitter_max": "4.5",
+    "range_max": "2",
+    "min_days": "1"
+  }
+]

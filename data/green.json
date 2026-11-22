@@ -1,0 +1,30 @@
+[
+  {
+    "lot": "G1",
+    "origin": "山地",
+    "grade": "一等",
+    "stock": "40",
+    "split_parent": "?"
+  },
+  {
+    "lot": "G2",
+    "origin": "高谷",
+    "grade": "一等",
+    "stock": "35",
+    "split_parent": "?"
+  },
+  {
+    "lot": "G3",
+    "origin": "山地",
+    "grade": "一等",
+    "stock": "30",
+    "split_parent": "?"
+  },
+  {
+    "lot": "G1a",
+    "origin": "山地",
+    "grade": "一等",
+    "stock": "16",
+    "split_parent": "G1"
+  }
+]

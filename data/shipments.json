@@ -1,0 +1,16 @@
+[
+  {
+    "finished": "F1",
+    "package": "X1",
+    "weight": "6",
+    "label": "L1",
+    "state": "已发"
+  },
+  {
+    "finished": "F1",
+    "package": "X2",
+    "weight": "6",
+    "label": "L1",
+    "state": "待发"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "order": "O1",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "weight": "12",
+    "label": "L1",
+    "state": "已包装",
+    "finished": "F1"
+  },
+  {
+    "order": "O2",
+    "lot_a": "G1a",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "weight": "10",
+    "label": "L1",
+    "state": "未投料",
+    "finished": "?"
+  },
+  {
+    "order": "O3",
+    "lot_a": "G1",
+    "lot_b": "G2",
+    "ratio_a": "0.65",
+    "weight": "11",
+    "label": "L2",
+    "state": "已投料",
+    "finished": "F2"
+  },
+  {
+    "order": "O4",
+    "lot_a": "G3",
+    "lot_b": "G2",
+    "ratio_a": "0.45",
+    "weight": "9",
+    "label": "L1",
+    "state": "未投料",
+    "finished": "?"
+  }
+]

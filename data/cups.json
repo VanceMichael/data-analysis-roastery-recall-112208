@@ -1,0 +1,110 @@
+[
+  {
+    "blind": "V1",
+    "judge": "J1",
+    "rep": "1",
+    "fruit": "7.4",
+    "bitter": "3.1",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V1",
+    "judge": "J1",
+    "rep": "2",
+    "fruit": "7.7",
+    "bitter": "3.0",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V1",
+    "judge": "J2",
+    "rep": "1",
+    "fruit": "7.9",
+    "bitter": "3.2",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V2",
+    "judge": "J2",
+    "rep": "1",
+    "fruit": "7.5",
+    "bitter": "3.2",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V3",
+    "judge": "J1",
+    "rep": "1",
+    "fruit": "6.8",
+    "bitter": "3.9",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V4",
+    "judge": "J1",
+    "rep": "1",
+    "fruit": "7.5",
+    "bitter": "3.0",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V2",
+    "judge": "J2",
+    "rep": "1",
+    "fruit": "7.5",
+    "bitter": "3.2",
+    "version": "2",
+    "state": "撤回"
+  },
+  {
+    "blind": "V5",
+    "judge": "J2",
+    "rep": "1",
+    "fruit": "6.2",
+    "bitter": "4.2",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V5",
+    "judge": "J2",
+    "rep": "2",
+    "fruit": "6.5",
+    "bitter": "4.1",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V6",
+    "judge": "J1",
+    "rep": "1",
+    "fruit": "7.1",
+    "bitter": "3.4",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V6",
+    "judge": "J2",
+    "rep": "1",
+    "fruit": "7.9",
+    "bitter": "3.8",
+    "version": "1",
+    "state": "记入"
+  },
+  {
+    "blind": "V7",
+    "judge": "J1",
+    "rep": "1",
+    "fruit": "7.3",
+    "bitter": "3.4",
+    "version": "1",
+    "state": "记入"
+  }
+]
