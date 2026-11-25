@@ -8,6 +8,8 @@
   },
   "scripts": {
     "test": "node --test",
-    "data:check": "node --test test/data.test.js"
+    "data:check": "node --test test/data.test.js",
+    "report": "node src/cli.js candidates && node src/cli.js orders && node src/cli.js ledger && node src/cli.js backup",
+    "scenario": "node scripts/scenario.js"
   }
 }
